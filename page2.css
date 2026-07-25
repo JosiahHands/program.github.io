@@ -1,0 +1,22 @@
+header {
+     background-color: #000000;
+     color: #ffffff;
+     padding: 20px;
+     text-align: center;
+ }
+
+ body {
+     background-color: cyan;
+     text-align: center;
+     font-family: Georgia;
+ }
+
+.p-button {
+    margin-left: auto;
+    margin-right: auto;
+    color: red;
+    background-color: red;
+    width: 100px;
+    border-radius: 5px;
+    text-align: center;
+}
