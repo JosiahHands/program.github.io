@@ -22,16 +22,6 @@ text-align: center;
      font-family: Georgia;
  }
 
-.p-button {
-    margin-left: auto;
-    margin-right: auto;
-    color: red;
-    background-color: red;
-    width: 100px;
-    border-radius: 5px;
-    text-align: center;
-}
-
 h1 {
   font-family: "Abril Fatface", serif;
   font-weight: 400;
@@ -46,4 +36,26 @@ h1 {
   border-radius: 10px;
   background-color: #f0f0f0;
   padding: 10px;
+}
+
+/* button config */
+
+.p-button {
+    margin: 20px auto 0px;
+    color: red;
+    background-color: red;
+    width: 100px;
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
+}
+
+.p-button:hover {
+    margin: 20px auto 0px;
+    color: red;
+    background-color: pink;
+    width: 100px;
+    border: 3px solid black;
+    border-radius: 5px;
+    text-align: center;
 }
