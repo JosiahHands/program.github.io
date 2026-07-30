@@ -89,6 +89,7 @@ h2 {
     border: 3px solid black;
     border-radius: 5px;
     text-align: center;
+    font-weight: bold;
 }
 
 .p-button:hover {
@@ -99,4 +100,5 @@ h2 {
     border: 3px solid black;
     border-radius: 5px;
     text-align: center;
+    font-weight: bold;
 }
