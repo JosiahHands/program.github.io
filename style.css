@@ -1,3 +1,17 @@
+#title {
+    text-align: center;
+    font-family: Georgia;
+    font-weight: bold;
+    color: red;
+    background-color: blue;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    border: 5px solid yellow;
+}
+
+
 body {
     background-color:cyan;
     text-align: center;
@@ -27,13 +41,19 @@ h2 {
 }
 
 #Elvis-pic {
-    height: 1935px;
-    width: 1500px;
+    border: 10px solid brown;
+    border-radius: 10px;
+    margin: auto;
+    width: 1000px;
+    height: auto;
 }
 
 #El-Camino-pic {
-    height: 1086px;
-    width: 1629px;
+    border: 10px solid brown;
+    border-radius: 10px;
+    margin: auto;
+    width: 1000px;
+    height: auto;
 }
 
 .p-button {
