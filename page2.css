@@ -10,7 +10,7 @@ text-align: center;
     color: red;
     background-color: blue;
     position: fixed;
-    top: 0;
+    top: 0;  
     left: 0;
     right: 0;
     border: 5px solid yellow;
@@ -31,6 +31,33 @@ text-align: center;
   background-color: #f0f0f0;
   padding: 10px;
 }
+
+#instructions {
+  text-align: center;
+  margin: 20px auto;
+  border: 5px solid black;
+  width: 90%;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+#summary {
+  text-align: center;
+  margin: 20px auto;
+  border: 5px solid red;
+  width: 45%;
+  border-radius: 10px;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+
+
+
+
+
+
+
 
 
 h1 {
