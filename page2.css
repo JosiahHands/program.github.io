@@ -115,6 +115,7 @@ h1 {
 
 #print {
   border: 5px solid black;
+  border-radius: 12px;
   padding: 3px 5px;
   margin: 5px 20%;
   text-align: left;
