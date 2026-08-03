@@ -14,6 +14,7 @@ body {
 table {
   border: 5px solid black;
   margin: 0 auto;
+  width: 100%
 }
 
 table th, table td {
@@ -23,16 +24,99 @@ table th, table td {
 
 
 
+
+@media screen and (min-width: 2000px) {
+  table {
+    font-size: 54px
+  }
+}
+
+@media screen and (max-width: 1900px) {
+  table {
+    font-size: 51px
+  }
+  
+}@media screen and (max-width: 1800px) {
+  table {
+    font-size: 48px
+  }
+}
+
+@media screen and (max-width: 1700px) {
+  table {
+    font-size: 45px
+  }
+}
+@media screen and (max-width: 1600px) {
+  table {
+    font-size: 42px
+  }
+}
+@media screen and (max-width: 1500px) {
+  table {
+    font-size: 39px
+  }
+}
+@media screen and (max-width: 1400px) {
+  table {
+    font-size: 36px
+  }
+}
+@media screen and (max-width: 1300px) {
+  table {
+    font-size: 33px
+  }
+}
+@media screen and (max-width: 1200px) {
+  table {
+    font-size: 30px
+  }
+}
+@media screen and (max-width: 1100px) {
+  table {
+    font-size: 27px
+  }
+}
+@media screen and (max-width: 1000px) {
+  table {
+    font-size: 24px
+  }
+}
+
+@media screen and (max-width: 900px) {
+  table {
+    font-size: 21px
+  }
+}
+
+
+@media screen and (max-width: 800px) {
+  table {
+    font-size: 18px
+  }
+}
+
+@media screen and (max-width: 700px) {
+  table {
+    font-size: 15px
+  }
+}
+
+@media screen and (max-width: 600px) {
+  table {
+    font-size: 12px
+  }
+}
+
 @media screen and (max-width: 500px) {
   table {
-    width: 100%;
-    font-size: 14px;
+    font-size: 9px;
   }
 }
 
 @media screen and (max-width: 400px) {
   table {
-    font-size: 9px;
+    font-size: 6px;
   }
 }
 
