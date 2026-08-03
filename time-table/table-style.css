@@ -1,0 +1,22 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  text-align: center;
+}
+
+.table {
+  border: 5px solid black;
+}
+
+table {
+  border: 5px solid black;
+  margin: 0 auto;
+}
+
+table th, table td {
+  padding: 5px;
+  border: 1px solid black;
+}
