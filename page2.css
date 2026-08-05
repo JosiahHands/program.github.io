@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+html { scroll-behavior: smooth;
+scroll-padding: 1rem;
+}
+
 nav {
     position: inline-block;
     text-align: center;
