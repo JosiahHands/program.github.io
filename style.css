@@ -2,6 +2,10 @@
   box-sizing: border-box;
 }
 
+a {
+    display: inline-block
+}
+
 nav {
     position: inline-block;
     text-align: center;
@@ -122,11 +126,13 @@ h2 {
     margin: 20px auto 0px;
     color: red;
     background-color: red;
-    width: 100px;
     border: 3px solid black;
     border-radius: 5px;
     text-align: center;
     font-weight: bold;
+    display: inline-block;
+    padding: 2px 5px 5px;
+    width: auto;
 }
 
 .p-button:hover {

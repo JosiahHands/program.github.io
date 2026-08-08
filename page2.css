@@ -147,16 +147,17 @@ table {
     margin: 20px auto 0px;
     color: red;
     background-color: red;
-    width: 100px;
     border: 3px solid black;
     border-radius: 5px;
     text-align: center;
     font-weight: bold;
     display: inline-block;
+    padding: 2px 5px 5px;
+    width: auto;
 }
 
 .p-button:hover {
-    background-color: pink;
+    background-color: pink; 
 }
 
 @media screen and (max-width: 800px) {
